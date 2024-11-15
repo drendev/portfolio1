@@ -14,7 +14,7 @@ export const ProfileImage = () => {
         >
             <div className="z-10 w-full h-full relative bg-gradient-to-t from-[#ececec] to-[#ffffff] rounded-[10.12px] p-[3.04px] overflow-hidden shadow-[0_0_1px_#00000012,0_0_1px_#0000000d,0_3px_3px_#00000040,0_1px_3px_#0000001f] active:shadow-[0_0_1px_#00000012,0_0_1px_#0000000d,0_3px_3px_#00000020,0_1px_3px_#0000001a]">
                 <Image 
-                    src={isHovered ? "/image1.jpg" : "/image.png"}
+                    src={isHovered ? "/image1.jpg" : "/image.jpg"}
                     alt="Profile Picture" 
                     height={329} 
                     width={221} 
