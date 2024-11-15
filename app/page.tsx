@@ -19,7 +19,7 @@ export default function Home() {
             </div>
             {/* drenswe welcome text */}
             <div className="box-border border-solid border-0 border-black leading-none max-w-[390px] my-0 py-0 text-[48px]">
-              <span className="text-[#9f9b9b] font-normal">Hello!</span> I'm Aldren
+              <span className="text-[#9f9b9b] font-normal">Hello!</span> I&apos;m Aldren
               <div className="justify-center items-center">
               <span className="border-solid border-0 border-black text-[48px] text-[#9f9b9b]">(</span>
               <span className="transform-none normal-num">0</span>
