@@ -23,7 +23,7 @@ export default function Home() {
               <div className="justify-center items-center">
               <span className="border-solid border-0 border-black text-[48px] text-[#9f9b9b]">(</span>
               <span className="transform-none normal-num">0</span>
-              <span className="pl-[4px] pr-[2px] text-indigo-400">→</span>
+              <span className="pl-[4px] pr-[2px] text-sky-700">→</span>
               <span className="transform-none normal-num">1</span>
               <span className="border-solid border-0 border-black text-[48px] text-[#9f9b9b]">) </span>
               software developer
